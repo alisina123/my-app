@@ -1,7 +1,7 @@
 export const DISHES =
     [
         {
-        id: 0,
+        id: 0, 
         name:'Uthappizza',
         image: 'assets/images/uthappizza.png',
         category: 'mains',
